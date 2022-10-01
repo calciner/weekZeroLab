@@ -4,8 +4,8 @@
 go to the [Bottom](#Bottom)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/src/moon.png">
-  <source media="(prefers-color-scheme: light)" srcset="src/moon1.png">
+  <source media="(prefers-color-scheme: light)" srcset="/src/moon.png">
+  <source media="(prefers-color-scheme: dark)" srcset="src/moon1.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="/src/moon.png">
 </picture>
 
